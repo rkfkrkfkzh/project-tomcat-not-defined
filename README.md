@@ -1,5 +1,5 @@
 # project-tomcat-not-defined
-발생원인 tomcat v9.0으로 설정 되어 있었음 (tomcat v9.0(2)사용중)</n>
+발생원인 tomcat v9.0(2)으로 설정 되어 있었음 (tomcat v9.0사용중)
 
 <img width="404" alt="스크린샷 2022-02-08 오전 11 20 41" src="https://user-images.githubusercontent.com/86057607/152905543-03a93d7a-fbb3-47c5-a7d4-d23a25717f7f.png">
 1.Markers창에서 item 냉ㅇ을 우클릭 하여 Quick Fix을 클릭
